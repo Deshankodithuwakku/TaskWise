@@ -11,6 +11,8 @@ import com.example.taskwise.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    //change1
+
     private lateinit var binding: ActivityMainBinding
     private lateinit var db: NotesDatabaseHelper
     private lateinit var notesAdapter: NotesAdapter
